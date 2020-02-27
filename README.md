@@ -1,2 +1,1 @@
-# ejemplo
-mi primer GITHUB
+# LISTA DE LA COMPRA
